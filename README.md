@@ -4,6 +4,8 @@ This bash script scrapes [PokeAPI.co](http://www.pokeapi.co/) and downloads `png
 
 ![bulbasaur](examples/bulbasaur.png) ![charmander](examples/charmander.png) ![squirtle](examples/squirtle.png)
 
+If you like or are using this script, please give it a :star: for motivation :)
+
 ## Running
 
 Before running, you must give executable permissions:
@@ -20,4 +22,4 @@ To run the script:
 
 ## Examples
 
-Check out the examples folder for a few example images.
+Check out the [examples](/examples) folder for a few example images.
