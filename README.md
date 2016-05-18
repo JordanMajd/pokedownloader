@@ -1,6 +1,6 @@
 # Pokedownloader
 
-This bash script scrapes [PokeAPI.co](http://www.pokeapi.co/) and downloads `png` images of all 718 Pokemon.
+This bash script scrapes [PokeAPI.co](http://www.pokeapi.co/) and downloads `png` images of all 811 Pokemon.
 
 ![bulbasaur](examples/bulbasaur.png) ![charmander](examples/charmander.png) ![squirtle](examples/squirtle.png)
 
@@ -23,3 +23,7 @@ To run the script:
 ## Examples
 
 Check out the [examples](/examples) folder for a few example images.
+
+## Roadmap
+
+- Make an API request to get the count of available Pokemon instead of hardcoding the value.
