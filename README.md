@@ -28,3 +28,7 @@ Check out the [examples](/examples) folder for a few example images.
 
 - Use API endpoints instead of /media endpoints.
 - Make an API request to get the count of available Pokemon instead of hardcoding the value.
+
+## License
+
+All code is licensed under an MIT license, for further details see [LICENSE](/LICENSE).
