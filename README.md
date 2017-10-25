@@ -1,4 +1,7 @@
-# Pokedownloader
+# Pokedownloader ![Version 1.1](https://img.shields.io/badge/Version-1.1-green.svg)
+
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+![Built with love](https://img.shields.io/badge/built%20with-%E2%9D%A4-FF8080.svg)
 
 This bash script scrapes [PokeAPI.co](http://www.pokeapi.co/) and downloads `png` images of 718 Pokemon.
 
