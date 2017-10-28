@@ -1,4 +1,4 @@
-# Pokedownloader ![Version 1.1](https://img.shields.io/badge/Version-1.1-green.svg)
+# Pokedownloader ![Version 1.2](https://img.shields.io/badge/Version-1.2-green.svg)
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 ![Built with love](https://img.shields.io/badge/built%20with-%E2%9D%A4-FF8080.svg)
