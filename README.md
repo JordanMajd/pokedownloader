@@ -3,7 +3,7 @@
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 ![Built with love](https://img.shields.io/badge/built%20with-%E2%9D%A4-FF8080.svg)
 
-This bash script scrapes [PokeAPI.co](http://www.pokeapi.co/) and downloads `png` images of 718 Pokemon.
+This bash script scrapes [PokeAPI.co](http://www.pokeapi.co/) and downloads `png` images of 948 Pokemon.
 
 ![bulbasaur](examples/bulbasaur.png) ![charmander](examples/charmander.png) ![squirtle](examples/squirtle.png)
 
@@ -30,7 +30,6 @@ Check out the [examples](/examples) folder for a few example images.
 ## Roadmap
 
 - Use API endpoints instead of /media endpoints.
-- Make an API request to get the count of available Pokemon instead of hardcoding the value.
 
 ## License
 
