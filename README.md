@@ -1,9 +1,9 @@
-# Pokedownloader ![Version 1.2](https://img.shields.io/badge/Version-1.2-green.svg)
+# Pokedownloader ![Version 1.2](https://img.shields.io/badge/Version-2.0-green.svg)
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 ![Built with love](https://img.shields.io/badge/built%20with-%E2%9D%A4-FF8080.svg)
 
-This bash script scrapes [PokeAPI.co](http://www.pokeapi.co/) and downloads `png` images of 948 Pokemon.
+This bash script scrapes [PokeAPI.co](http://www.pokeapi.co/) and downloads `png` images of 964 Pokemon.
 
 ![bulbasaur](examples/bulbasaur.png) ![charmander](examples/charmander.png) ![squirtle](examples/squirtle.png)
 
@@ -23,13 +23,11 @@ To run the script:
 ./pokedownloader.sh
 ```
 
+Images will be downloaded to the [images](/images) directory.
+
 ## Examples
 
 Check out the [examples](/examples) folder for a few example images.
-
-## Roadmap
-
-- Use API endpoints instead of /media endpoints.
 
 ## License
 
